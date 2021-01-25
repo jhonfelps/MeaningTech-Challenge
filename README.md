@@ -1,5 +1,8 @@
 # NgCompleteGuideUpdate
 
+1. Descargar el proyecto y correr el comando: npm install.
+2. Corre el comando ng serve.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
 ## Development server
